@@ -5,7 +5,7 @@ body{
     margin: 0;
     padding: 0;
     width: 1440px;
-   color:white;
+   
 }
 .outer{
     min-height: 100vh;
@@ -46,6 +46,7 @@ body{
     padding-bottom: 6px;
     font-family: Inter-VariableFont_slnt,wght;
     font-weight: bold;
+   color:white;
 }
 .names span{
     color: chartreuse;
@@ -56,6 +57,7 @@ body{
     font-size: 14px;
     font-weight: 900;
     padding-bottom: 6px;
+   color:white;
 }
 .links{
     width: 100%;
@@ -71,6 +73,6 @@ body{
     background-color: #414040;
     cursor: pointer;
     margin-bottom: 14px;
-    font-weight: bold
-    font
+    font-weight: bold;
+    color:white;
 }
