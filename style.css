@@ -1,11 +1,12 @@
 
+
    
 body{
     background-color: black;
     margin: 0;
     padding: 0;
     width: 1440px;
-   
+    color: white;
 }
 .outer{
     min-height: 100vh;
@@ -28,7 +29,7 @@ body{
     width: 80px;
     height: 80px;
     border-radius: 50%;
-    background-image: url("avatar-jessica.jpeg");
+    background-image: url("/Users/Gopinath/Downloads/social-links-profile-main/assets/images/avatar-jessica.jpeg");
     background-size: cover;
 }
 @font-face {
@@ -46,7 +47,6 @@ body{
     padding-bottom: 6px;
     font-family: Inter-VariableFont_slnt,wght;
     font-weight: bold;
-   color:white;
 }
 .names span{
     color: chartreuse;
@@ -57,7 +57,6 @@ body{
     font-size: 14px;
     font-weight: 900;
     padding-bottom: 6px;
-   color:white;
 }
 .links{
     width: 100%;
@@ -74,7 +73,9 @@ body{
     cursor: pointer;
     margin-bottom: 14px;
     font-weight: bold;
-    color:white;
+    color: WHITE;
 }
+
 .links button:hover{
-   background-color:#FF004F;}
+    background-color: #FF004F;
+}
