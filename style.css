@@ -76,3 +76,5 @@ body{
     font-weight: bold;
     color:white;
 }
+.links button:hover{
+   background-color:#FF004F;}
